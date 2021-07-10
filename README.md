@@ -17,9 +17,9 @@
 <br />
 
 ### Projects:
-[<kbd><img align="left" alt="Ester Wijaya" width="30px" src="https://avatars.githubusercontent.com/u/74842882?s=200&v=4" /><kbd>][esterwijaya]
-[<kbd><img align="left" alt="JRChord" width="30px" src="https://avatars.githubusercontent.com/u/74843031?s=200&v=4" /></kbd>][jrchord]
-[<kbd><img align="left" alt="JRExample" width="30px" src="https://avatars.githubusercontent.com/u/87228467?s=200&v=4" /></kbd>][jrexample]
+[<img align="left" alt="Ester Wijaya" width="30px" src="https://avatars.githubusercontent.com/u/74842882?s=200&v=4" />][esterwijaya]
+[<img align="left" alt="JRChord" width="30px" src="https://avatars.githubusercontent.com/u/74843031?s=200&v=4" />][jrchord]
+[<img align="left" alt="JRExample" width="30px" src="https://avatars.githubusercontent.com/u/87228467?s=200&v=4" />][jrexample]
 
 <br />
 
