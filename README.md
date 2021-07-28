@@ -30,6 +30,10 @@
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/react.png" />
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/nodejs.png" />
 
+<br />
+
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jackyrusly&show_icons=true&theme=dark">
+
 [website]: https://jackyrusly.github.io/
 [youtube]: https://www.youtube.com/channel/UCNQdZrwWx5vq-DyONhaCUIw
 [linkedin]: https://www.linkedin.com/in/jacky-rusly
