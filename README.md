@@ -17,14 +17,14 @@
 [<img align="left" alt="Instagram" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/instagram.png" />][instagram]
 [<img align="left" alt="YouTube" width="34px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/youtube.png" />][youtube]
 
-<br />
+&nbsp;
 
 ### Projects:
 [<img align="left" alt="Ester Wijaya" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/esterwijaya.png" />][esterwijaya]
 [<img align="left" alt="JRChord" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jrchord.png" />][jrchord]
 [<img align="left" alt="JRExample" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jr.png" />][jrexample]
 
-<br />
+&nbsp;
 
 ### Languages and Tools:
 
@@ -32,7 +32,7 @@
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/react.png" />
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/nodejs.png" />
 
-<br />
+&nbsp;
 
 ### GitHub Stats:
 
