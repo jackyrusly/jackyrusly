@@ -1,9 +1,7 @@
 ## Hi there, I'm Jacky Rusly 👋
 
 ![](https://komarev.com/ghpvc/?username=jackyrusly&color=3b9fa6)
-[![Gmail Badge](https://img.shields.io/badge/-mail@jayraj.co.in-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jackyrusly@gmail.com)](mailto:jackyrusly@gmail.com)
-
----
+[![Gmail Badge](https://img.shields.io/badge/-mail@jackyrusly@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jackyrusly@gmail.com)](mailto:jackyrusly@gmail.com)
 
 ### Software Engineer | Gamer | Musician
 
