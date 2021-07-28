@@ -3,7 +3,7 @@
 
 ### Software Engineer | Gamer | Musician
 
-- 🌱 I’m currently learning Micro Frontend
+- 🌱 I’m currently learning Rust
 - ⚡ Fun fact: I love to play piano/guitar and play games
 
 ### Connect with me:
