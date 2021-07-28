@@ -1,14 +1,15 @@
 ## Hi there, I'm Jacky Rusly 👋
 
 ![](https://komarev.com/ghpvc/?username=jackyrusly&color=3b9fa6)
+[![Gmail Badge](https://img.shields.io/badge/-mail@jayraj.co.in-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jackyrusly@gmail.com)](mailto:jackyrusly@gmail.com)
 
+---
 
 ### Software Engineer | Gamer | Musician
 
+- 💻 I am working as Software Engineer
 - 🌱 I’m currently learning Rust
 - ⚡ Fun fact: I love to play piano/guitar and play games
-
----
 
 ### Connect with me:
 
@@ -18,11 +19,7 @@
 [<img align="left" alt="Instagram" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/instagram.png" />][instagram]
 [<img align="left" alt="YouTube" width="34px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/youtube.png" />][youtube]
 
----
-
 <br />
-
----
 
 ### Projects:
 [<img align="left" alt="Ester Wijaya" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/esterwijaya.png" />][esterwijaya]
@@ -30,8 +27,6 @@
 [<img align="left" alt="JRExample" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jr.png" />][jrexample]
 
 <br />
-
----
 
 ### Languages and Tools:
 
@@ -41,12 +36,10 @@
 
 <br />
 
----
-
 ### GitHub Stats:
 
-<p style="margin-top: 40px;">
-  <img height="120" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jackyrusly&show_icons=true&theme=react">
+<p>
+  <img height="150" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jackyrusly&show_icons=true&theme=react">
 </p>
 
 [website]: https://jackyrusly.github.io/
