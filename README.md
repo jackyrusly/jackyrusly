@@ -18,17 +18,17 @@
 <br />
 
 ### Projects:
-[<img align="left" alt="Ester Wijaya" width="30px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/esterwijaya.png" />][esterwijaya]
-[<img align="left" alt="JRChord" width="30px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jrchord.png" />][jrchord]
-[<img align="left" alt="JRExample" width="30px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jr.png" />][jrexample]
+[<img align="left" alt="Ester Wijaya" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/esterwijaya.png" />][esterwijaya]
+[<img align="left" alt="JRChord" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jrchord.png" />][jrchord]
+[<img align="left" alt="JRExample" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jr.png" />][jrexample]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/vscode.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/react.png" />
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/nodejs.png" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/vscode.png" />
+<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/react.png" />
+<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/nodejs.png" />
 
 [website]: https://jackyrusly.github.io/
 [youtube]: https://www.youtube.com/channel/UCNQdZrwWx5vq-DyONhaCUIw
