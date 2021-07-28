@@ -1,5 +1,6 @@
 ## Hi there, I'm Jacky Rusly 👋
 
+![](https://komarev.com/ghpvc/?username=jackyrusly&color=3b9fa6)
 
 ### Software Engineer | Gamer | Musician
 
