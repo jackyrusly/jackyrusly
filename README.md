@@ -9,26 +9,26 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jackyrusly.web.id" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/home.svg" />][jrcv]
-[<img align="left" alt="jackyrusly.web.id" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="jackyrusly.web.id" width="24px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jackyrusly.png" />][jrcv]
+[<img align="left" alt="jackyrusly.web.id" width="24px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/portfolio.png" />][website]
+[<img align="left" alt="YouTube" width="24px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/youtube.png" />][youtube]
+[<img align="left" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/linkedin.png" />][linkedin]
+[<img align="left" alt="Instagram" width="24px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/instagram.png" />][instagram]
 
 <br />
 
 ### Projects:
-[<img align="left" alt="Ester Wijaya" width="30px" src="https://avatars.githubusercontent.com/u/74842882?s=200&v=4" />][esterwijaya]
-[<img align="left" alt="JRChord" width="30px" src="https://avatars.githubusercontent.com/u/74843031?s=200&v=4" />][jrchord]
-[<img align="left" alt="JRExample" width="30px" src="https://avatars.githubusercontent.com/u/87228467?s=200&v=4" />][jrexample]
+[<img align="left" alt="Ester Wijaya" width="30px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/esterwijaya.png" />][esterwijaya]
+[<img align="left" alt="JRChord" width="30px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jrchord.png" />][jrchord]
+[<img align="left" alt="JRExample" width="30px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jr.png" />][jrexample]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/vscode.png" />
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/react.png" />
+<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/nodejs.png" />
 
 [website]: https://jackyrusly.github.io/
 [youtube]: https://www.youtube.com/channel/UCNQdZrwWx5vq-DyONhaCUIw
