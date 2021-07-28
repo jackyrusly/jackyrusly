@@ -32,7 +32,7 @@
 
 <br />
 
-<p>
+<p style="margin-top: 40px;">
   <img height="120" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jackyrusly&show_icons=true&theme=react">
 </p>
 
