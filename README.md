@@ -32,7 +32,9 @@
 
 <br />
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jackyrusly&show_icons=true&theme=dark">
+<p>
+  <img height="120" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jackyrusly&show_icons=true&theme=react">
+</p>
 
 [website]: https://jackyrusly.github.io/
 [youtube]: https://www.youtube.com/channel/UCNQdZrwWx5vq-DyONhaCUIw
