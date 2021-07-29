@@ -39,7 +39,7 @@
 <img height="150" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jackyrusly&show_icons=true&theme=react">
 
 [website]: https://jackyrusly.github.io/
-[youtube]: https://www.youtube.com/channel/UCNQdZrwWx5vq-DyONhaCUIw
+[youtube]: https://www.youtube.com/c/JRChord
 [linkedin]: https://www.linkedin.com/in/jacky-rusly
 [instagram]: https://www.instagram.com/jackyrusly/
 [esterwijaya]: https://github.com/esterwijaya
