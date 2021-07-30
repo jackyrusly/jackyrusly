@@ -47,4 +47,4 @@
 [jrchord]: https://github.com/jrchord
 [jrcv]: https://jackyrusly.web.id
 [jrexample]: https://github.com/jrexample
-[jrinvestment]: https://github.com/jrinvesment
+[jrinvestment]: https://github.com/jrinvestment
