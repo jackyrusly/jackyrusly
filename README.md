@@ -23,6 +23,7 @@
 [<img align="left" alt="Ester Wijaya" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/esterwijaya.png" />][esterwijaya]
 [<img align="left" alt="JRChord" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jrchord.png" />][jrchord]
 [<img align="left" alt="JRExample" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jr.png" />][jrexample]
+[<img align="left" alt="JRInvestment" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jrinvestment.png" />][jrinvestment]
 
 <br />&nbsp;
 
@@ -46,3 +47,4 @@
 [jrchord]: https://github.com/jrchord
 [jrcv]: https://jackyrusly.web.id
 [jrexample]: https://github.com/jrexample
+[jrinvestment]: https://github.com/jrinvesment
