@@ -6,7 +6,7 @@
 ### Software Engineer | Gamer | Musician
 
 - 💻 I am working as a Software Engineer
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Python
 - ⚡ Fun fact: I love to play piano/guitar and play games
 
 ### Connect with me:
