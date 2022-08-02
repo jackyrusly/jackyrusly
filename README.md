@@ -24,6 +24,7 @@
 [<img align="left" alt="JRChord" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jrchord.png" />][jrchord]
 [<img align="left" alt="JRExample" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jr.png" />][jrexample]
 [<img align="left" alt="JRInvestment" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jrinvestment.png" />][jrinvestment]
+[<img align="left" alt="House of Underwear" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/hou.png" />][hou]
 
 <br />&nbsp;
 
@@ -48,3 +49,4 @@
 [jrcv]: https://jackyrusly.web.id
 [jrexample]: https://github.com/jrexample
 [jrinvestment]: https://github.com/jrinvestment
+[hou]: https://github.com/houseofunderwear
