@@ -46,7 +46,7 @@
 [instagram]: https://www.instagram.com/jackyrusly/
 [esterwijaya]: https://github.com/esterwijaya
 [jrchord]: https://github.com/jrchord
-[jrcv]: https://jackyrusly.web.id
+[jrcv]: https://space.jackyrusly.com
 [jrexample]: https://github.com/jrexample
 [jrinvestment]: https://github.com/jrinvestment
 [hou]: https://github.com/houseofunderwear
