@@ -6,7 +6,7 @@
 ### Software Engineer | Gamer | Musician
 
 - 💻 I am working as a Software Engineer
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning FL Studio
 - ⚡ Fun fact: I love to play piano/guitar and play games
 
 ### Connect with me:
