@@ -26,6 +26,7 @@
 [<img align="left" alt="JRExample" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jr.png" />][jrexample]
 [<img align="left" alt="JRInvestment" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/jrinvestment.png" />][jrinvestment]
 [<img align="left" alt="House of Underwear" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/hou.png" />][hou]
+[<img align="left" alt="Celyris" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/celyris.png" />][celyrisstudio]
 
 <br />&nbsp;
 
@@ -36,10 +37,6 @@
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/jackyrusly/jackyrusly/master/assets/nodejs.png" />
 
 <br /> &nbsp;
-
-### GitHub Stats:
-
-<img height="150" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jackyrusly&show_icons=true&theme=react">
 
 [website]: https://www.jackyrusly.com
 [youtube]: https://www.youtube.com/c/JRChord
@@ -52,3 +49,4 @@
 [jrgame]: https://game.jackyrusly.com
 [jrinvestment]: https://github.com/jrinvestment
 [hou]: https://github.com/houseofunderwear
+[celyrisstudio]: https://github.com/celyrisstudio
